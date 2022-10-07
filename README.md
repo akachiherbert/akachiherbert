@@ -11,7 +11,7 @@ I'm a Technical Support Engineer (and a Software Engineering Student), who curre
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Support Engineer, Backend Engineer, or Software Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtoakachi.herbert@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Sx65vms6z4J8W353qs_lZrwxFbuLEFNc/view?usp=sharing) and contact me by emailing mailtoakachi.herbert@gmail.com.
 
 ---
 
